@@ -80,11 +80,11 @@ return 0;
 
 i)FILE COPYING:
 
-![alt text](<../ex7.1 output.png>)
+![alt text](<ex7.1 output.png>)
 
 ii)FILE LOCKING:
 
-![alt text](<../ex7.2 output.png>)
+![alt text](<ex7.2 output.png>)
 
 # RESULT:
 The programs are executed successfully.
